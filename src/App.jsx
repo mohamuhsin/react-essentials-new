@@ -2,6 +2,8 @@ import Header from "./Header";
 
 import componentsImg from './assets/components.png';
 
+import { CORE_CONCEPTS } from "./data";
+
 function CoreConcepts(props) {
   return (
     <li>
@@ -20,7 +22,10 @@ function App() {
         <h2>Core Concepts</h2>
         <section id="core-concepts">
           <ul>
-            <CoreConcepts title="Components" description="Core UI Building blocks" image={componentsImg} />
+            <CoreConcepts title={CORE_CONCEPTS[0].title} description={CORE_CONCEPTS[0].description} image={CORE_CONCEPTS[0].image} />
+            <CoreConcepts {...CORE_CONCEPTS[1]} />
+            <CoreConcepts {...CORE_CONCEPTS[2]} />
+            <CoreConcepts {...CORE_CONCEPTS[3]} />
           </ul>
         </section>
       </main>
