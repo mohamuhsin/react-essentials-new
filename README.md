@@ -9,4 +9,4 @@
 
 1. Components 
 2. JSX
-4. Prop
+4. Pr
