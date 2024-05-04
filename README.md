@@ -7,4 +7,4 @@
 3. Props
 4. State
 
-1. Com
+1. Co
