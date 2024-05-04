@@ -14,4 +14,4 @@
 
 1. Components 
 2. JSX
-3. Pro
+3. P
