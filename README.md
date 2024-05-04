@@ -1,6 +1,6 @@
 # React Essentials
 
-## react Core Concepts needed to built any react app.
+## React Core Concepts needed to built any react app.
 
 1. Components 
 2. JSX
