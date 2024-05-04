@@ -7,4 +7,4 @@
 3. Props
 4. State
 
-1. Componen
+1. Compon
