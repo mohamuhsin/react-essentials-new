@@ -6,4 +6,4 @@
 2. JSX
 3. Props
 4. State
-1. Components
+1. Compo
