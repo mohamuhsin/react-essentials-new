@@ -12,4 +12,4 @@
 3. Props
 3. State
 
-1. Components 
+1. Componen
