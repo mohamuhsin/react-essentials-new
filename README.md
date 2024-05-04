@@ -15,4 +15,4 @@
 1. Components 
 2. JSX
 3. Props
-3. S
+3
