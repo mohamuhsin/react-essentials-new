@@ -11,5 +11,3 @@
 2. JSX
 3. Props
 3. State
-
-1
