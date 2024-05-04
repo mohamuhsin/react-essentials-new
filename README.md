@@ -10,4 +10,4 @@
 1. Components 
 2. JSX
 4. Props
-3. State
+3. Stat
