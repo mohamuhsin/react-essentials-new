@@ -8,4 +8,4 @@
 4. State
 1. Components 
 2. JSX
-3. Props
+3. Pro
