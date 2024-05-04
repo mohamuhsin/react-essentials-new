@@ -10,4 +10,4 @@
 1. Components 
 2. JSX
 3. Props
-3. Sta
+3. S
