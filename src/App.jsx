@@ -5,9 +5,8 @@ import TabButton from "./components/TabButton";
 import { CORE_CONCEPTS } from "./data";
 
 function App() {
-
   function handleClick() {
-    console.log('clicked!!!')
+    console.log("clicked!!!");
   }
   return (
     <div>
@@ -35,6 +34,7 @@ function App() {
             <TabButton onSelect={handleClick}>State</TabButton>
           </menu>
         </section>
+        Dynamic Content
       </main>
     </div>
   );
