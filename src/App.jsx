@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Header from "./components/Header";
-import CoreConcepts from "./components/CoreConcepts";
+import CoreConcept from "./components/CoreConcept";
 import TabButton from "./components/TabButton";
 
 import { CORE_CONCEPTS } from "./data";
@@ -37,14 +37,14 @@ function App() {
         <h2>Core Concepts</h2>
         <section id="core-concepts">
           <ul>
-            <CoreConcepts
+            <CoreConcept
               title={CORE_CONCEPTS[0].title}
               description={CORE_CONCEPTS[0].description}
               image={CORE_CONCEPTS[0].image}
             />
-            <CoreConcepts {...CORE_CONCEPTS[1]} />
-            <CoreConcepts {...CORE_CONCEPTS[2]} />
-            <CoreConcepts {...CORE_CONCEPTS[3]} />
+            <CoreConcept {...CORE_CONCEPTS[1]} />
+            <CoreConcept {...CORE_CONCEPTS[2]} />
+            <CoreConcept {...CORE_CONCEPTS[3]} />
           </ul>
         </section>
         <section id="examples">
