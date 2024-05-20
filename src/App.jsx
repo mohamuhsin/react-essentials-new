@@ -5,14 +5,14 @@ import Examples from "./components/Examples";
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <main>
         <h2>Core Concepts</h2>
         <CoreConcepts />
         <Examples />
       </main>
-    </div>
+    </>
   );
 }
 
