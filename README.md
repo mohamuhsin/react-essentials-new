@@ -6,3 +6,5 @@
 2. JSX
 3. Props
 4. State
+
+# How To Build This App:
